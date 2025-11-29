@@ -35,10 +35,11 @@ This repository contains all required implementation files and visual evidence o
 ## 📁 Repository Structure
 
 ```
-├── cometchat-demo/               # React project with the UI Kit integrated
-├── screenshots/                  # Screenshots used in README & PDF report
-├── video/                        # Short screen recording of the working project
-├── report/                       # PDF report with detailed issues & suggestions
+├── src/                          # React project with the UI Kit integrated
+|    ├── ConetChatTabs
+|    ├── CometChatSelector
+├── App.tsx
+├── App.css           
 └── README.md                     # This file
 ```
 
@@ -60,7 +61,7 @@ Follow these steps:
 ### **1. Clone the repository**
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>/cometchat-demo
+cd <your-repo-name>/demo-chat
 ```
 
 ### **2. Install dependencies**
