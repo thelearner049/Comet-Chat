@@ -93,8 +93,6 @@ Below are some key screenshots of the working UI:
 | UI Kit Builder | ![Builder](./public/ui-kit-builder.png) |
 | Running React UI Kit | ![UI Kit](./public/running-ui-kit.png) |
 
-*(Replace filenames with your actual screenshot names.)*
-
 ---
 
 ## 🎥 Screen Recording
@@ -103,33 +101,8 @@ A short video of launched app using UI Kit Builder:
 
 Video file is available here:  
 ```
-| Demo Chat Video | ![Video](./public/running-app.mp4) |
+./public/running-app.mp4
 ```
-
----
-
-## 📝 Report (Issues & Suggestions)
-
-A professionally structured report is included in:  
-```
-./report/CometChat_Assignment_Report.pdf
-```
-
-The report covers detailed findings with:  
-✔ Title  
-✔ Category  
-✔ Severity  
-✔ Expected Behaviour  
-✔ Actual Behaviour  
-✔ Impact  
-✔ Suggestion  
-
-Across all four required areas:
-
-1. Dashboard  
-2. UI Kit Builder  
-3. Documentation  
-4. UI Kit Implementation  
 
 ---
 
@@ -138,8 +111,7 @@ Across all four required areas:
 During this assignment, I learned:
 
 - How CometChat's UI Kit works and how to integrate it  
-- How to identify UX/UI issues and document them professionally  
-- How onboarding flows feel from a developer’s perspective  
+- How to identify UX/UI issues and document them professionally   
 - Troubleshooting installation/integration issues  
 - Writing structured reports with screenshots  
 
@@ -149,7 +121,7 @@ During this assignment, I learned:
 
 **Nandni Atray**  
 Frontend Developer  
-Email: thelearner049+test@gmail.com    
+Email: thelearner049@gmail.com    
 
 ---
 
